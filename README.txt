@@ -6,5 +6,5 @@ se agrego una nueva rama
 
 nueva linea
 
-mensaje de la ram alter2
+mensaje de la rama alter2
 
